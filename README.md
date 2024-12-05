@@ -1,6 +1,7 @@
 coomand: 
 
 ```
+  clone the project first
   cd PDF_GEMINI
   python -m venv venv
   venv\Scripts\activate
