@@ -8,3 +8,7 @@ coomand:
   pip install -r requirements.txt
   streamlit run app.py
 ```
+
+```
+ generate your gemini api key from https://aistudio.google.com/app/apikey
+```
